@@ -1,0 +1,14 @@
+# testing
+pytest
+
+# type hint
+mypy
+
+# linting and formating
+black
+flake8
+flake8-debugger
+flake8-isort
+flake8-polyfill
+isort
+pep8-naming
